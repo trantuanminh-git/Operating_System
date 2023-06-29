@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1688004097 source:c:\users\admin\desktop\hdh\test_23h08\myshell.cpp
+	<windows.h>
+	<bits/stdc++.h>
+	<string.h>
+	<vector>
+	<thread>
+	<chrono>
+	<tlhelp32.h>
+	<tchar.h>
+	<debugapi.h>
+	<processthreadsapi.h>
+	<fstream>
+	"bibrary.h"
+	"messenger.h"
+	"concurentCommandBuilder.h"
+
+1658333245 c:\users\admin\desktop\hdh\test_23h08\bibrary.h
+	<iostream>
+	<windows.h>
+	<string>
+	<ctime>
+	<stdio.h>
+	<limits.h>
+	<unistd.h>
+	<direct.h>
+	<errno.h>
+	<fstream>
+	<bits/stdc++.h>
+
+1658333241 c:\users\admin\desktop\hdh\test_23h08\messenger.h
+	<windows.h>
+	<bits/stdc++.h>
+	<string>
+	<iostream>
+
+1658333249 c:\users\admin\desktop\hdh\test_23h08\concurentcommandbuilder.h
+	<windows.h>
+	<bits/stdc++.h>
+	<string>
+	<iostream>
+	<vector>
+
